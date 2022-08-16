@@ -1,0 +1,54 @@
+
+.menu{
+    display: none;
+}
+
+#hamburger{
+    display: block;
+}
+
+.flex-center{
+    flex-direction: column;
+}
+
+.main-box{
+    width: 240px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+
+.div-blocks{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    flex-direction: row;
+    min-width: 0;
+}
+
+.block{
+    margin: 15px;
+    min-width: 180px;
+    width: 180px;
+}
+
+.content h2{
+    padding-left: 10%;
+    margin: auto;
+}
+
+div.window{
+    width: 390px;
+}
+
+div.window div.flex-between {
+    display: block;
+}
+
+div.window div.flex-between p{
+    width: 300px;
+}
+
+div.window img{
+    width: 100%;
+    margin: auto;
+}
